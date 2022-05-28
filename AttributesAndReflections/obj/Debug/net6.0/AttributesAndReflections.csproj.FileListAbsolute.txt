@@ -1,0 +1,15 @@
+C:\Users\MONSTER\source\repos\week2hw1\AttributesAndReflections\obj\Debug\net6.0\AttributesAndReflections.csproj.AssemblyReference.cache
+C:\Users\MONSTER\source\repos\week2hw1\AttributesAndReflections\obj\Debug\net6.0\AttributesAndReflections.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MONSTER\source\repos\week2hw1\AttributesAndReflections\obj\Debug\net6.0\AttributesAndReflections.AssemblyInfoInputs.cache
+C:\Users\MONSTER\source\repos\week2hw1\AttributesAndReflections\obj\Debug\net6.0\AttributesAndReflections.AssemblyInfo.cs
+C:\Users\MONSTER\source\repos\week2hw1\AttributesAndReflections\obj\Debug\net6.0\AttributesAndReflections.csproj.CoreCompileInputs.cache
+C:\Users\MONSTER\source\repos\week2hw1\AttributesAndReflections\bin\Debug\net6.0\AttributesAndReflections.exe
+C:\Users\MONSTER\source\repos\week2hw1\AttributesAndReflections\bin\Debug\net6.0\AttributesAndReflections.deps.json
+C:\Users\MONSTER\source\repos\week2hw1\AttributesAndReflections\bin\Debug\net6.0\AttributesAndReflections.runtimeconfig.json
+C:\Users\MONSTER\source\repos\week2hw1\AttributesAndReflections\bin\Debug\net6.0\AttributesAndReflections.dll
+C:\Users\MONSTER\source\repos\week2hw1\AttributesAndReflections\bin\Debug\net6.0\AttributesAndReflections.pdb
+C:\Users\MONSTER\source\repos\week2hw1\AttributesAndReflections\obj\Debug\net6.0\AttributesAndReflections.dll
+C:\Users\MONSTER\source\repos\week2hw1\AttributesAndReflections\obj\Debug\net6.0\refint\AttributesAndReflections.dll
+C:\Users\MONSTER\source\repos\week2hw1\AttributesAndReflections\obj\Debug\net6.0\AttributesAndReflections.pdb
+C:\Users\MONSTER\source\repos\week2hw1\AttributesAndReflections\obj\Debug\net6.0\AttributesAndReflections.genruntimeconfig.cache
+C:\Users\MONSTER\source\repos\week2hw1\AttributesAndReflections\obj\Debug\net6.0\ref\AttributesAndReflections.dll
